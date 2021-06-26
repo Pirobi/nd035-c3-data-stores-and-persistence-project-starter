@@ -1,5 +1,8 @@
 package com.udacity.jdnd.course3.critter.pet;
 
+import com.udacity.jdnd.course3.critter.entity.Pet;
+import org.springframework.beans.BeanUtils;
+
 import java.time.LocalDate;
 
 /**
